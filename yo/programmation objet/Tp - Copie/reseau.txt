@@ -1,0 +1,5 @@
+2
+LYS Lyon 45 5
+CDG Paris 49 2
+1
+LYS CDG 60
