@@ -1,4 +1,6 @@
 #include <string>
+#ifndef CONNEXION_H
+#define CONNEXION_H
 
 class Connexion{
     private:
@@ -9,4 +11,7 @@ class Connexion{
     public:
         Connexion(std::string depart, std::string arrivee, int duree);
         void afficher() const;
+        std::string getArrivee() const;
     };
+
+#endif
