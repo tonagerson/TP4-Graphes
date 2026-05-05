@@ -24,3 +24,5 @@ Le graphe est généré dynamiquement en lisant un fichier texte structuré de l
 ## 4. État d'avancement
 - **Livrable 1 (Validé) :** Implémentation des classes spécifiques `Aeroport` et `Connexion`, lecture des données depuis le flux d'entrée et construction du réseau en mémoire.
 - **Livrable 2 (Validé) :** Refactoring complet pour transformer le graphe initial en un `GrapheGenerique` utilisant les templates. L'application compile parfaitement et affiche le réseau de manière générique.
+## Aperçu du résultat
+![Capture du réseau aérien](images/resultat.png)
