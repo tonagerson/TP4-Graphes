@@ -1,1 +1,0 @@
-print("Welcome to pendu's game")
