@@ -15,8 +15,10 @@ Application développée en **C++ moderne** permettant de modéliser, manipuler 
 ---
 
 ## Aperçu du résultat
+<img width="960" height="540" alt="resultat png" src="https://github.com/user-attachments/assets/6c5082a9-a949-4f29-976b-013228104534" />
 
-![Aperçu du réseau aérien](Yo/Objet%20de%20programmation/Tp%20-%20Copie/Images/Capture%20du%20r%C3%A9seau%20a%C3%A9rien.png)
+
+
 
 ---
 
